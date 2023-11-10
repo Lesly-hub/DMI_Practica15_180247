@@ -1,0 +1,22 @@
+{
+  "name": "mx.utxj.ti.dmi.api_videogame",
+  "version": "1.0.0",
+  "description": "API REST para realizar las operaciones CRUD a una Base de Datos Relacional, del proyecto de video",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "MySQL",
+    "Sequelize",
+    "Express"
+  ],
+  "author": "Lesly Yareth Hernandez Bonilla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
